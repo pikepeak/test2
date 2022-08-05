@@ -1,0 +1,13 @@
+1.BS         GATEWAY
+2.BC         GATEWAY
+3.AC9600     RS232
+4.UriSed     GATEWAY
+5.LabUMat    GATEWAY
+6.mini       GATEWAY
+7.LURP2      GATEWAY
+8.LURP       RS232
+9.Urit500B   RS232
+10.MAGLUMI   GATEWAY
+11.Finecare  GATEWAY
+12.bga       GATEWAY
+13.ocg       GATEWAY
